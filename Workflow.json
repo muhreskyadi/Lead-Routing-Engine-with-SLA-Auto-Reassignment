@@ -52,7 +52,7 @@
           "__rl": true,
           "value": "<REDACTED_GOOGLE_SHEET_DOCUMENT_ID>",
           "mode": "list",
-          "cachedResultName": "n8n mini crm",
+          "cachedResultName": "DEMO_SHEET",
           "cachedResultUrl": "<REDACTED_GOOGLE_SHEET_URL>"
         },
         "sheetName": {
@@ -98,7 +98,7 @@
           "__rl": true,
           "value": "<REDACTED_GOOGLE_SHEET_DOCUMENT_ID>",
           "mode": "list",
-          "cachedResultName": "n8n mini crm",
+          "cachedResultName": "DEMO_SHEET",
           "cachedResultUrl": "<REDACTED_GOOGLE_SHEET_URL>"
         },
         "sheetName": {
@@ -153,7 +153,7 @@
           "__rl": true,
           "value": "<REDACTED_GOOGLE_SHEET_DOCUMENT_ID>",
           "mode": "list",
-          "cachedResultName": "n8n mini crm",
+          "cachedResultName": "DEMO_SHEET",
           "cachedResultUrl": "<REDACTED_GOOGLE_SHEET_URL>"
         },
         "sheetName": {
@@ -232,7 +232,7 @@
           "__rl": true,
           "value": "<REDACTED_GOOGLE_SHEET_DOCUMENT_ID>",
           "mode": "list",
-          "cachedResultName": "n8n mini crm",
+          "cachedResultName": "DEMO_SHEET",
           "cachedResultUrl": "<REDACTED_GOOGLE_SHEET_URL>"
         },
         "sheetName": {
@@ -407,7 +407,7 @@
           "__rl": true,
           "value": "<REDACTED_GOOGLE_SHEET_DOCUMENT_ID>",
           "mode": "list",
-          "cachedResultName": "n8n mini crm",
+          "cachedResultName": "DEMO_SHEET",
           "cachedResultUrl": "<REDACTED_GOOGLE_SHEET_URL>"
         },
         "sheetName": {
@@ -453,7 +453,7 @@
           "__rl": true,
           "value": "<REDACTED_GOOGLE_SHEET_DOCUMENT_ID>",
           "mode": "list",
-          "cachedResultName": "n8n mini crm",
+          "cachedResultName": "DEMO_SHEET",
           "cachedResultUrl": "<REDACTED_GOOGLE_SHEET_URL>"
         },
         "sheetName": {
@@ -542,7 +542,7 @@
           "__rl": true,
           "value": "<REDACTED_GOOGLE_SHEET_DOCUMENT_ID>",
           "mode": "list",
-          "cachedResultName": "n8n mini crm",
+          "cachedResultName": "DEMO_SHEET",
           "cachedResultUrl": "<REDACTED_GOOGLE_SHEET_URL>"
         },
         "sheetName": {
@@ -701,7 +701,7 @@
     {
       "parameters": {
         "httpMethod": "POST",
-        "path": "mini-crm-stage",
+        "path": "demo-stage-update",
         "responseMode": "lastNode",
         "options": {}
       },
@@ -712,7 +712,7 @@
         1696
       ],
       "id": "f2b2d1f5-5c79-4c15-bccb-68576372352b",
-      "name": "STAGE) Webhook (/mini-crm-stage)",
+      "name": "STAGE) Webhook (/demo-stage-update)",
       "webhookId": "<REDACTED_WEBHOOK_ID_STAGE>"
     },
     {
@@ -767,7 +767,7 @@
           "__rl": true,
           "value": "<REDACTED_GOOGLE_SHEET_DOCUMENT_ID>",
           "mode": "list",
-          "cachedResultName": "n8n mini crm",
+          "cachedResultName": "DEMO_SHEET",
           "cachedResultUrl": "<REDACTED_GOOGLE_SHEET_URL>"
         },
         "sheetName": {
@@ -994,7 +994,7 @@
           "__rl": true,
           "value": "<REDACTED_GOOGLE_SHEET_DOCUMENT_ID>",
           "mode": "list",
-          "cachedResultName": "n8n mini crm",
+          "cachedResultName": "DEMO_SHEET",
           "cachedResultUrl": "<REDACTED_GOOGLE_SHEET_URL>"
         },
         "sheetName": {
@@ -1191,7 +1191,7 @@
           "__rl": true,
           "value": "<REDACTED_GOOGLE_SHEET_DOCUMENT_ID>",
           "mode": "list",
-          "cachedResultName": "n8n mini crm",
+          "cachedResultName": "DEMO_SHEET",
           "cachedResultUrl": "<REDACTED_GOOGLE_SHEET_URL>"
         },
         "sheetName": {
@@ -1234,7 +1234,7 @@
           "__rl": true,
           "value": "<REDACTED_GOOGLE_SHEET_DOCUMENT_ID>",
           "mode": "list",
-          "cachedResultName": "n8n mini crm",
+          "cachedResultName": "DEMO_SHEET",
           "cachedResultUrl": "<REDACTED_GOOGLE_SHEET_URL>"
         },
         "sheetName": {
@@ -1525,7 +1525,7 @@
         ]
       ]
     },
-    "STAGE) Webhook (/mini-crm-stage)": {
+    "STAGE) Webhook (/demo-stage-update)": {
       "main": [
         [
           {
@@ -1685,3 +1685,4 @@
   "id": "<REDACTED_WORKFLOW_ID>",
   "tags": []
 }
+
